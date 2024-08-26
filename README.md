@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavya142004
 - 👀 I’m interested in creating websites and learning programming languages.
 - 🌱 I’m currently learning how to create websites using react javascript 
-- 💞️ I’m making a project based on react.
+- 💞️ I’m making a small project based on react javascript.
 - 😄 I'm 2nd year cse student pursuing my btech degree in Srm University, Chennai.
 
 <!---
